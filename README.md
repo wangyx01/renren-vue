@@ -14,5 +14,9 @@
 - config/index.js 更改后端服务器的链接地址
 
 ## 编译方式
-- npm install
-- npm run build
+```
+npm install nodejs
+npm install node-sass
+npm install
+npm run build
+```
